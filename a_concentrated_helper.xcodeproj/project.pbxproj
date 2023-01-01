@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F16C8D6296172C500734BAC /* drumPlayModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F16C8D5296172C500734BAC /* drumPlayModel.swift */; };
+		5F16C8DE29619A3C00734BAC /* drum2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8DB29619A3C00734BAC /* drum2.wav */; };
+		5F16C8DF29619A3C00734BAC /* drum1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8DC29619A3C00734BAC /* drum1.wav */; };
+		5F16C8E029619A3C00734BAC /* drum3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8DD29619A3C00734BAC /* drum3.wav */; };
+		5F16C8E529619A8400734BAC /* 4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8E129619A8300734BAC /* 4.wav */; };
+		5F16C8E629619A8400734BAC /* 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8E229619A8300734BAC /* 3.wav */; };
+		5F16C8E729619A8400734BAC /* 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8E329619A8300734BAC /* 2.wav */; };
+		5F16C8E829619A8400734BAC /* 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5F16C8E429619A8400734BAC /* 1.wav */; };
 		5F748BA629533BD500288CB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F748BA529533BD500288CB3 /* AppDelegate.swift */; };
 		5F748BA829533BD500288CB3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F748BA729533BD500288CB3 /* SceneDelegate.swift */; };
 		5F748BAA29533BD500288CB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F748BA929533BD500288CB3 /* ViewController.swift */; };
@@ -15,15 +23,17 @@
 		5F748BB229533BD700288CB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F748BB129533BD700288CB3 /* Assets.xcassets */; };
 		5F748BB529533BD700288CB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F748BB329533BD700288CB3 /* LaunchScreen.storyboard */; };
 		5FF65BFF29533E04008FBB73 /* muiscPlayModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF65BFE29533E04008FBB73 /* muiscPlayModel.swift */; };
-		5FF65C02295343A1008FBB73 /* 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C01295343A1008FBB73 /* 2.wav */; };
-		5FF65C04295343B0008FBB73 /* 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C03295343B0008FBB73 /* 1.wav */; };
-		5FF65C06295343B6008FBB73 /* 5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C05295343B6008FBB73 /* 5.wav */; };
-		5FF65C08295343BB008FBB73 /* 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C07295343BB008FBB73 /* 3.wav */; };
-		5FF65C0A295343BF008FBB73 /* 4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C09295343BF008FBB73 /* 4.wav */; };
-		5FF65C0D29534DC8008FBB73 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5FF65C0C29534DC8008FBB73 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F16C8D5296172C500734BAC /* drumPlayModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drumPlayModel.swift; sourceTree = "<group>"; };
+		5F16C8DB29619A3C00734BAC /* drum2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = drum2.wav; sourceTree = "<group>"; };
+		5F16C8DC29619A3C00734BAC /* drum1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = drum1.wav; sourceTree = "<group>"; };
+		5F16C8DD29619A3C00734BAC /* drum3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = drum3.wav; sourceTree = "<group>"; };
+		5F16C8E129619A8300734BAC /* 4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 4.wav; sourceTree = "<group>"; };
+		5F16C8E229619A8300734BAC /* 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 3.wav; sourceTree = "<group>"; };
+		5F16C8E329619A8300734BAC /* 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 2.wav; sourceTree = "<group>"; };
+		5F16C8E429619A8400734BAC /* 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 1.wav; sourceTree = "<group>"; };
 		5F748BA229533BD500288CB3 /* a_concentrated_helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = a_concentrated_helper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F748BA529533BD500288CB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F748BA729533BD500288CB3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -34,12 +44,6 @@
 		5F748BB429533BD700288CB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F748BB629533BD700288CB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5FF65BFE29533E04008FBB73 /* muiscPlayModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muiscPlayModel.swift; sourceTree = "<group>"; };
-		5FF65C01295343A1008FBB73 /* 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 2.wav; sourceTree = "<group>"; };
-		5FF65C03295343B0008FBB73 /* 1.wav */ = {isa = PBXFileReference; explicitFileType = audio.wav; path = 1.wav; sourceTree = "<group>"; };
-		5FF65C05295343B6008FBB73 /* 5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 5.wav; sourceTree = "<group>"; };
-		5FF65C07295343BB008FBB73 /* 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 3.wav; sourceTree = "<group>"; };
-		5FF65C09295343BF008FBB73 /* 4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 4.wav; sourceTree = "<group>"; };
-		5FF65C0C29534DC8008FBB73 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +85,6 @@
 				5FF65C0029533E0E008FBB73 /* Model */,
 				5F748BB629533BD700288CB3 /* Info.plist */,
 				5F748BAE29533BD500288CB3 /* a_concentrated_helper.xcdatamodeld */,
-				5FF65C0C29534DC8008FBB73 /* alarm_sound.mp3 */,
 				5FF65C0B295343CB008FBB73 /* muiscPlayer */,
 			);
 			path = a_concentrated_helper;
@@ -107,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				5FF65BFE29533E04008FBB73 /* muiscPlayModel.swift */,
+				5F16C8D5296172C500734BAC /* drumPlayModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -114,11 +118,13 @@
 		5FF65C0B295343CB008FBB73 /* muiscPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				5FF65C03295343B0008FBB73 /* 1.wav */,
-				5FF65C01295343A1008FBB73 /* 2.wav */,
-				5FF65C07295343BB008FBB73 /* 3.wav */,
-				5FF65C09295343BF008FBB73 /* 4.wav */,
-				5FF65C05295343B6008FBB73 /* 5.wav */,
+				5F16C8DC29619A3C00734BAC /* drum1.wav */,
+				5F16C8DB29619A3C00734BAC /* drum2.wav */,
+				5F16C8DD29619A3C00734BAC /* drum3.wav */,
+				5F16C8E429619A8400734BAC /* 1.wav */,
+				5F16C8E329619A8300734BAC /* 2.wav */,
+				5F16C8E229619A8300734BAC /* 3.wav */,
+				5F16C8E129619A8300734BAC /* 4.wav */,
 			);
 			path = muiscPlayer;
 			sourceTree = "<group>";
@@ -181,15 +187,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FF65C04295343B0008FBB73 /* 1.wav in Resources */,
-				5FF65C08295343BB008FBB73 /* 3.wav in Resources */,
+				5F16C8E829619A8400734BAC /* 1.wav in Resources */,
+				5F16C8E729619A8400734BAC /* 2.wav in Resources */,
+				5F16C8DF29619A3C00734BAC /* drum1.wav in Resources */,
 				5F748BB529533BD700288CB3 /* LaunchScreen.storyboard in Resources */,
-				5FF65C0A295343BF008FBB73 /* 4.wav in Resources */,
-				5FF65C0D29534DC8008FBB73 /* alarm_sound.mp3 in Resources */,
-				5FF65C02295343A1008FBB73 /* 2.wav in Resources */,
-				5FF65C06295343B6008FBB73 /* 5.wav in Resources */,
 				5F748BB229533BD700288CB3 /* Assets.xcassets in Resources */,
+				5F16C8E529619A8400734BAC /* 4.wav in Resources */,
+				5F16C8E629619A8400734BAC /* 3.wav in Resources */,
 				5F748BAD29533BD500288CB3 /* Main.storyboard in Resources */,
+				5F16C8E029619A3C00734BAC /* drum3.wav in Resources */,
+				5F16C8DE29619A3C00734BAC /* drum2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -203,6 +210,7 @@
 				5F748BAA29533BD500288CB3 /* ViewController.swift in Sources */,
 				5F748BA629533BD500288CB3 /* AppDelegate.swift in Sources */,
 				5F748BA829533BD500288CB3 /* SceneDelegate.swift in Sources */,
+				5F16C8D6296172C500734BAC /* drumPlayModel.swift in Sources */,
 				5FF65BFF29533E04008FBB73 /* muiscPlayModel.swift in Sources */,
 				5F748BB029533BD500288CB3 /* a_concentrated_helper.xcdatamodeld in Sources */,
 			);
